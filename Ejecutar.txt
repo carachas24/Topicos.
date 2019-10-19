@@ -1,0 +1,22 @@
+npm i
+composer update
+php artisan migrate
+
+
+
+php artisan serve
+
+npm run watch
+
+
+
+C:\Users\adm\repos\jersey-hello-world>git remote rm gitlab
+To check the remote was removed run the following command:
+
+C:\Users\adm\repos\jersey-hello-world>git remote -v
+github  https://github.com/admfactory/jersey-hello-world.git (fetch)
+github  https://github.com/admfactory/jersey-hello-world.git (push)
+
+
+
+composer require "laravelcollective/html":"^5.3.0"
